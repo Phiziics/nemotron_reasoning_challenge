@@ -1,0 +1,8 @@
+New-Item data\raw\.gitkeep
+New-Item data\processed\.gitkeep
+New-Item data\external\.gitkeep
+
+New-Item outputs\models\.gitkeep
+New-Item outputs\adapters\.gitkeep
+New-Item outputs\submissions\.gitkeep
+New-Item outputs\reports\.gitkeep
