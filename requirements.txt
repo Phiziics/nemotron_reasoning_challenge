@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+jupyter
+ipykernel
+kaggle
+python-dotenv
+pyyaml
